@@ -1,4 +1,3 @@
 {
-    "project_name": "Placeholder for Project Name",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}"
 }
