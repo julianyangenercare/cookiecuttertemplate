@@ -1,5 +1,5 @@
 {
 
     "project_name": "Placeholder for your project name",
-    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}"
+    "project_slug": "Press Enter to Continue: {{ cookiecutter.project_name.lower().replace(' ', '_') }}"
 }
